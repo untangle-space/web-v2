@@ -66,7 +66,7 @@ module.exports = {
         background_color: `#F6EFDD`,
         theme_color: `#FFFFFF`,
         display: `standalone`,
-        icon: 'C:/Users/Tanishq Bhatia/Downloads/designletter-develop/designletter-develop/static/untangle-fav.png',
+        icon: 'content/assets/untangle-favicon.png',
       },
     },
     `gatsby-plugin-react-helmet`,
